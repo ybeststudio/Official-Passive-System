@@ -2,7 +2,7 @@
 
 **Created by BestStudio**
 
-Resmi Metin2 Kalıntı Bonusu (Ruh Kalıntısı) sisteminin kaynak kodlarından sökülmüş, halka açık paylaşım için hazırlanmış sürümüdür.
+Resmi Metin2 Kalıntı Bonusu (Ruh Kalıntısı) Metin2 Wiki kaynağından edinilen bilgiler  doğrultusunda geliştirilmiştir. Halka açık paylaşım için hazırlanmış sürümüdür.
 
 [Gif](https://media.giphy.com/media/jalFezTLK0ZK8yyztb/giphy.gif) | [Video](https://youtu.be/_RbJWpcsmAY)
 
@@ -183,4 +183,4 @@ Bu proje eğitim ve araştırma amaçlıdır. Ticari kullanım için gerekli lis
 
 ## Katkı
 
-Bu sistem BestStudio tarafından resmi Metin2 Wiki 'den ilham alınarak oluşturulmuş ve paylaşıma sunulmuştur. Sorularınız için GitHub issue açabilirsiniz.
+Bu sistem BestStudio tarafından resmi Metin2 Wiki üzerindeki bilgiler ve çeşitli video kaynaklardan edinilen bilgiler doğrultusunda geliştirilmiş ve paylaşıma sunulmuştur. Sorularınız için GitHub issue açabilirsiniz.
