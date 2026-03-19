@@ -1,0 +1,20 @@
+
+
+
+PASSIVE_ATTR_ADD_FAIL	Baþarýsýz! Bonuslar ruh kalýntýsýna aktarýlmadý.
+PASSIVE_ATTR_ADD_FAIL_MAX_ATTR	Ruh kalýntýsý baþka bonus alamaz.
+PASSIVE_ATTR_ADD_FAIL_NOT_ENOUGH_JOB_ITEM	Bunun için sýnýfýn için bir ruh kalýntýsýna ihtiyacýn var.
+PASSIVE_ATTR_ADD_SUCCESS	Baþarýlý! Bonuslar ruh kalýntýsýna aktarýldý.
+PASSIVE_ATTR_CHARGE_FAIL_FULL_TIME	Ruh kalýntýsý zaten dolu.
+PASSIVE_ATTR_CHARGE_FAIL_NOT_ENOUGH_JOB_ITEM	Ruh kalýntýsýnýn doldurulmasý gerekmiyor.
+PASSIVE_ATTR_CHARGE_QUESTION	Ruh kalýntýsýný doldurmak istiyor musun?
+PASSIVE_ATTR_CHARGE_SUCCESS_MSG	Kalýntý süresi tamamen doldu.
+PASSIVE_ATTR_CONTROL_FAIL_MSG	Etkinleþtirme esnasýnda bunu yapamazsýn.
+PASSIVE_ATTR_COOLTIME_FAIL_MSG	Lütfen daha sonra tekrar dene.
+PASSIVE_ATTR_NOT_ENOUGH_SUB_ITEM	Bunun için uygun bir ruha ihtiyacýn var.
+PASSIVE_JOB_ACTIVATE_FAIL_NOT_FOUND_ITEM	Bunun için sýnýfýn için bir ruh kalýntýsýna ihtiyacýn var.
+PASSIVE_JOB_DESTROY_POPUP	Ruh kalýntýsýný verirsen, imha edilir. Emin misin?
+PASSIVE_JOB_FIRST_ACTIVATE_POPUP1	Etkinleþtirmeden sonra kalýntýyý iletemezsin.
+PASSIVE_JOB_FIRST_ACTIVATE_POPUP2	Nesneler bu esnada kaybolur. Emin misin?
+PASSIVE_JOB_LEFT_TIME	Kalan süre: %s
+PASSIVE_JOB_MAX_TIME	Maksimum kalýntý süresi: %s

@@ -1,0 +1,13 @@
+30255	Kılıç ruhu	Bir kalıntı bonusu ekleyebilir veya bunu uzatabilir.
+30256	Koruyucu ruh	Bir kalıntı bonusu ekleyebilir veya bunu uzatabilir.
+30257	Takı ruhu	Bir kalıntı bonusu ekleyebilir veya bunu uzatabilir.
+30258	Işık ruhu	Bir kalıntı bonusu ekleyebilir veya bunu uzatabilir.
+
+30272	Savaşçı ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30273	Ninja ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30274	Sura ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30275	Şaman ruhu kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+30276	Lycan ruh kalıntısı	Bir kalıntı bonusu verebilir. Aynı anda maksimum 4 bonus mümkün. Bonuslar süresi dolana kadar değiştirilemez.
+
+100100	Ejderha Kerpeteni	Ejderha taşını çıkarmada başarı olasılığını yükseltmeye yarayan bir tamir aleti.
+100200	Sürenin Kerpeteni	Bir ejderha taşının süresini çeker alır.

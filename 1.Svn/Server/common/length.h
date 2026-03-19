@@ -1,0 +1,33 @@
+
+
+
+// Ara 
+
+enum EWearPositions
+{
+..
+....
+	WEAR_COSTUME_HAIR,
+	
+// Altına ekle
+
+#ifdef ENABLE_PASSIVE_SYSTEM
+	WEAR_PASSIVE,
+#endif
+
+
+// Ara 
+
+enum SPECIAL_EFFECT
+{
+	....
+	...
+	SE_EQUIP_RAMADAN_RING,
+	SE_EQUIP_HALLOWEEN_CANDY,
+	SE_EQUIP_HAPPINESS_RING,
+	SE_EQUIP_LOVE_PENDANT,
+
+// Altına ekle
+#ifdef ENABLE_PASSIVE_SYSTEM
+	SE_PASSIVE_EFFECT,
+#endif

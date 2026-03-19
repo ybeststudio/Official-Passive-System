@@ -1,0 +1,14 @@
+
+30255	Kılıç ruhu
+30256	Koruyucu ruh
+30257	Takı ruhu
+30258	Işık ruhu
+
+30272	Savaşçı ruh kalıntısı
+30273	Ninja ruh kalıntısı
+30274	Sura ruh kalıntısı
+30275	Şaman ruhu kalıntısı
+30276	Lycan ruh kalıntısı
+
+100100	Ejderha kerpeteni
+100101	Ejderha kerpeteni+
